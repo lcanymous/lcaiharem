@@ -1,0 +1,7 @@
+# Never commit secrets
+*.token
+.env
+.env.*
+
+# macOS
+.DS_Store
